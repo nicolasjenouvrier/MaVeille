@@ -56,13 +56,23 @@ Ma vaille technologique
 * Daily
   * Youtube :
     * "C from scratch" : https://www.youtube.com/playlist?list=PLo1MmTvqMbiUcyrms0_XPtVKYsvT-4y81
+* Collect :
+  * Learnings :
+    * Memory Layout of C ProgramsMemory Layout of C Programs : https://www.geeksforgeeks.org/memory-layout-of-c-program/
+
 
 ## Rust
 
 ## Dev Soft
 #### General 
+* Automatisation de taches entre outils : (Par exemple GitHub, Jenkins, Slack) https://www.make.com/en/integrations/github/jenkins/slack
 * Traducteur Anglais-RegEx https://www.autoregex.xyz/
 * Apprendre en s'amusant: https://linuxfr.org/news/apprendre-en-s-amusant
+* Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window: 
+  * https://twitter.com/Uggla_/status/1579095191835021318?s=20&t=tglwaBtNU_ONCxNs0KwjZw
+  * https://godbolt.org/
+
+
 #### Git 
 * Tips :
   * Pour que git arrête de suivre les modifs d'un fichier déjà commité : ```git update-index --assume-unchanged <file>```
