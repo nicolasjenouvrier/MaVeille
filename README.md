@@ -62,6 +62,8 @@ Ma vaille technologique
 
 
 ## Rust
+* Learning :
+  * comprehensive-rust, un cours pour apprendre le Rust et utilisé par les ingénieurs de Google de la team Android : https://github.com/google/comprehensive-rust
 
 ## Dev Soft
 #### General 
