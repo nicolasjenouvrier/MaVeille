@@ -6,18 +6,26 @@ Ma vaille technologique
 ## Python
 * Daily :
   * Blog :
-<!-- ![Python](assets/images/Python-logo-notext.svg.png) -->
-* https://twitter.com/PythonLibHunt : Your go-to Python Toolbox
-  - https://python.libhunt.com/ Python newsletter to know all the trending packages, news and articles
-* https://twitter.com/cool_python Auto-retweeting Python tweets from the accounts we follow - enjoy!
-* https://twitter.com/ThePSF The non-profit organization behind the Python programming language.
-* https://twitter.com/pycoders Your weekly dose of all things Python! The best articles, projects, and events curated for you.
-* https://twitter.com/asso_python_fr L'Association Francophone Python a pour but la promotion du langage de programmation Python dans le monde francophone. Organise [@pyconfr](https://twitter.com/pyconfr)
+    * https://sametmax2.com/ : beaucoup de cours, tutos, infos python mais arrêté depuis juin 2019
   * Twitter
+    <!-- ![Python](assets/images/Python-logo-notext.svg.png) -->
+    * Mine d'or : 
+      * https://github.com/vinta/awesome-python#podcasts A curated list of awesome Python frameworks, libraries, software and resources.
+      * An incomplete list of people in the Python community to follow on Twitter and Mastodon: https://gist.github.com/samuelcolvin/1743d8919acb465c1fbbcea2c3cdaf3e
+    * https://twitter.com/PythonLibHunt : Your go-to Python Toolbox
+      - https://python.libhunt.com/ Python newsletter to know all the trending packages, news and articles
+    * https://twitter.com/cool_python Auto-retweeting Python tweets from the accounts we follow - enjoy!
+    * https://twitter.com/ThePSF The non-profit organization behind the Python programming language.
+    * https://twitter.com/pycoders Your weekly dose of all things Python! The best articles, projects, and events curated for you.
+    * https://twitter.com/asso_python_fr L'Association Francophone Python a pour but la promotion du langage de programmation Python dans le monde francophone. Organise [@pyconfr](https://twitter.com/pyconfr)
+    * https://twitter.com/__mharrison__
+
   
 * Collect :
   * Tips :
-  * Libraiires
+  * Libraiires :
+  * Learning :
+    * Decorator : https://twitter.com/__mharrison__/status/1608493118634053633 
 ## Android
 
 ## Linux
@@ -30,6 +38,8 @@ Ma vaille technologique
       * ```zip -F http://monfichierpart.zip --out http://monfichier.zip```
       * ```zip -FF http://monfichierpart.zip --out http://monfichier.zip```
   * Libraiires
+  * Learnings:
+    * The Linux Booting Process Explained : https://twitter.com/linuxopsys/status/1569097282330722304?s=20&t=ofr4E5JiGeHj_3HPxFSaxw
 
 ## C
 
