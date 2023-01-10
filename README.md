@@ -29,6 +29,7 @@ Ma vaille technologique
   * Libraiires :
   * Learning :
     * Decorator : https://twitter.com/__mharrison__/status/1608493118634053633 
+    * strings format : f-strings Are More Powerful Than You Might Think : https://dev.to/martinheinz/python-f-strings-are-more-powerful-than-you-might-think-2oop
 ## Android
 
 ## Linux
