@@ -22,7 +22,7 @@ Ma vaille technologique
     * https://twitter.com/__mharrison__
     * https://twitter.com/Martin_Heinz_
   * newsletter :
-    * 
+    * https://martinheinz.dev/subscribe 
   
 * Collect :
   * Tips :
