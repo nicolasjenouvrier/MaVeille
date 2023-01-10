@@ -4,6 +4,8 @@ Ma vaille technologique
 
 
 ## Python
+* Daily :
+  * Blog :
 <!-- ![Python](assets/images/Python-logo-notext.svg.png) -->
 * https://twitter.com/PythonLibHunt : Your go-to Python Toolbox
   - https://python.libhunt.com/ Python newsletter to know all the trending packages, news and articles
@@ -11,11 +13,23 @@ Ma vaille technologique
 * https://twitter.com/ThePSF The non-profit organization behind the Python programming language.
 * https://twitter.com/pycoders Your weekly dose of all things Python! The best articles, projects, and events curated for you.
 * https://twitter.com/asso_python_fr L'Association Francophone Python a pour but la promotion du langage de programmation Python dans le monde francophone. Organise [@pyconfr](https://twitter.com/pyconfr)
-
+  * Twitter
+  
+* Collect :
+  * Tips :
+  * Libraiires
 ## Android
 
 ## Linux
-* https://twitter.com/lea_linux Compte officiel de l'association loi 1901 depuis 24 ans sur les logiciels libres.
+* Daily :
+  * https://twitter.com/lea_linux Compte officiel de l'association loi 1901 depuis 24 ans sur les logiciels libres.
+  
+* Collect :
+  * Tips :
+    * récupération d'un zip pas fini :
+      * ```zip -F http://monfichierpart.zip --out http://monfichier.zip```
+      * ```zip -FF http://monfichierpart.zip --out http://monfichier.zip```
+  * Libraiires
 
 ## C
 
