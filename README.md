@@ -7,6 +7,7 @@ Ma vaille technologique
 * Daily :
   * Blog :
     * https://sametmax2.com/ : beaucoup de cours, tutos, infos python mais arrêté depuis juin 2019
+    * https://martinheinz.dev/tag/python/ 
   * Twitter
     <!-- ![Python](assets/images/Python-logo-notext.svg.png) -->
     * Mine d'or : 
@@ -19,7 +20,9 @@ Ma vaille technologique
     * https://twitter.com/pycoders Your weekly dose of all things Python! The best articles, projects, and events curated for you.
     * https://twitter.com/asso_python_fr L'Association Francophone Python a pour but la promotion du langage de programmation Python dans le monde francophone. Organise [@pyconfr](https://twitter.com/pyconfr)
     * https://twitter.com/__mharrison__
-
+    * https://twitter.com/Martin_Heinz_
+  * newsletter :
+    * 
   
 * Collect :
   * Tips :
