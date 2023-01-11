@@ -16,11 +16,14 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
       * https://github.com/vinta/awesome-python#podcasts A curated list of awesome Python frameworks, libraries, software and resources.
       * An incomplete list of people in the Python community to follow on Twitter and Mastodon: https://gist.github.com/samuelcolvin/1743d8919acb465c1fbbcea2c3cdaf3e
     * https://twitter.com/PythonLibHunt : Your go-to Python Toolbox
+    * https://twitter.com/python_tip One #python tip per day.
       - https://python.libhunt.com/ Python newsletter to know all the trending packages, news and articles
     * https://twitter.com/cool_python Auto-retweeting Python tweets from the accounts we follow - enjoy!
     * https://twitter.com/ThePSF The non-profit organization behind the Python programming language.
     * https://twitter.com/pycoders Your weekly dose of all things Python! The best articles, projects, and events curated for you.
     * https://twitter.com/asso_python_fr L'Association Francophone Python a pour but la promotion du langage de programmation Python dans le monde francophone. Organise [@pyconfr](https://twitter.com/pyconfr)
+    * https://twitter.com/pybites Helping people from 120+ countries to improve their #Python/ #developer/ #mindset skills
+    * https://twitter.com/PythonStack StackOverflow feed of Python questions matching certain criteria.
     * https://twitter.com/__mharrison__
     * https://twitter.com/Martin_Heinz_
   * newsletter :
@@ -41,8 +44,13 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 
 ## Android
 * Daily:
+  * Twitter  
+    * https://twitter.com/androidweekly Get the best Android & Kotlin development news sent directly to your inbox since 2011! 
+    * https://twitter.com/Croissants_Mail 
   * Youtube:
     * DevCafé : https://www.youtube.com/playlist?list=PL1psL-F0LvSNukqgroJCHpbLJgWUiTdjc
+  * Newsletter
+    * https://android-croissants.com/ Entièrement gratuite, la newsletter (ou infolettre) s'adresse autant aux débutants qu'aux développeurs Android avancés.
 
 ## Linux
 * Daily :
