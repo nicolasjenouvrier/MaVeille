@@ -2,6 +2,8 @@
 # MaVeille
 Ma vaille technologique
 
+Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
+
 
 ## Python
 * Daily :
@@ -31,7 +33,16 @@ Ma vaille technologique
   * Learning :
     * Decorator : https://twitter.com/__mharrison__/status/1608493118634053633 
     * strings format : f-strings Are More Powerful Than You Might Think : https://dev.to/martinheinz/python-f-strings-are-more-powerful-than-you-might-think-2oop
+    * Youtube
+      * formation python (6h): https://www.youtube.com/watch?v=LamjAFnybo0&list=PLGNVbtO0YAeyOqdN7B85MR4DgAhOW7un_&index=1
+      * Apprendre le python : https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR
+      * Learn Python (either on its own or for AP CSP): https://www.youtube.com/playlist?list=PL9YOvPKwvPULm7tjWCfhpFHBxy22KpVXx
+
+
 ## Android
+* Daily:
+  * Youtube:
+    * DevCafé : https://www.youtube.com/playlist?list=PL1psL-F0LvSNukqgroJCHpbLJgWUiTdjc
 
 ## Linux
 * Daily :
@@ -54,12 +65,12 @@ Ma vaille technologique
 
 ## C
 * Daily
-  * Youtube :
-    * "C from scratch" : https://www.youtube.com/playlist?list=PLo1MmTvqMbiUcyrms0_XPtVKYsvT-4y81
+  
 * Collect :
   * Learnings :
     * Memory Layout of C ProgramsMemory Layout of C Programs : https://www.geeksforgeeks.org/memory-layout-of-c-program/
-
+    * Youtube :
+      * "C from scratch" : https://www.youtube.com/playlist?list=PLo1MmTvqMbiUcyrms0_XPtVKYsvT-4y81
 
 ## Rust
 * Learning :
@@ -85,14 +96,29 @@ Ma vaille technologique
 
 
 ## Hardware
+* Learnings:
+  * Youtube
+    * Electronics from scratch: https://www.youtube.com/watch?v=YFQTamaRLpg&list=PL1FnGqCKiFzGIsSWxpuWUVmnmzmaQETRO
+* Tools :
+  * Logisim-evolution is educational software for designing and simulating digital logic circuits:  https://github.com/logisim-evolution/logisim-evolution
+  * sigrok project aims at creating a portable, cross-platform, Free/Libre/Open-Source signal analysis software suite that supports various device types (e.g. logic analyzers, oscilloscopes, and many more): https://sigrok.org/wiki/Main_Page
 
 
 ## General techno
 #### Vulgarisation scientique
 * [Bartosz Ciechanowski](https://ciechanow.ski/) https://twitter.com/bciechanowski
 
-## Job 
+#### Actualités
+* Podcasts 
+  * Tech Café : https://techcafe.fr/
 
+#### Tools
+* LibreCAD is a free Open Source CAD : https://librecad.org/
+
+## CV
+* LA TECHNIQUE pour avoir le meilleur CV ! (Et le publier sur internet): https://www.youtube.com/watch?v=wSghMQBB-6c
+
+## Job 
 * https://twitter.com/UnJobANantes
   Tout savoir sur l’emploi à #Nantes, les entreprises qui recrutent #numérique #industrie #santé et la vie sur le territoire #QVT 
   Une initiative @investnantesSN
