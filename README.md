@@ -36,6 +36,7 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
   * Learning :
     * Decorator : https://twitter.com/__mharrison__/status/1608493118634053633 
     * strings format : f-strings Are More Powerful Than You Might Think : https://dev.to/martinheinz/python-f-strings-are-more-powerful-than-you-might-think-2oop
+    * https://koor.fr/Python/Index.wp
     * Youtube
       * formation python (6h): https://www.youtube.com/watch?v=LamjAFnybo0&list=PLGNVbtO0YAeyOqdN7B85MR4DgAhOW7un_&index=1
       * Apprendre le python : https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR
@@ -92,9 +93,12 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 
 ## Dev Soft
 #### General 
+* Learning
+  * Tutos
+    * https://koor.fr/
+    * Apprendre en s'amusant: https://linuxfr.org/news/apprendre-en-s-amusant
 * Automatisation de taches entre outils : (Par exemple GitHub, Jenkins, Slack) https://www.make.com/en/integrations/github/jenkins/slack
 * Traducteur Anglais-RegEx https://www.autoregex.xyz/
-* Apprendre en s'amusant: https://linuxfr.org/news/apprendre-en-s-amusant
 * Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window: 
   * https://twitter.com/Uggla_/status/1579095191835021318?s=20&t=tglwaBtNU_ONCxNs0KwjZw
   * https://godbolt.org/
