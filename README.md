@@ -42,6 +42,12 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
       * Learn Python (either on its own or for AP CSP): https://www.youtube.com/playlist?list=PL9YOvPKwvPULm7tjWCfhpFHBxy22KpVXx
 
 
+## Django
+ * Daily
+ * Collect
+   * Learning 
+     * Chronological list of Resources to Learn Django from Complete Beginner to Advanced Level https://www.codelivly.com/resources-to-learn-django-from-complete-beginner-to-advanced-level/
+
 ## Android
 * Daily:
   * Twitter  
@@ -133,5 +139,6 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 * https://twitter.com/LinuxjobsF Le site web de la communauté du Logiciel Libre et Open Source en France
   
 ## Entreprises/Coop à suivre
-* https://twitter.com/coopTilleuls API, Web & Cloud Experts. [@ApiPlatform](https://twitter.com/ApiPlatform) creators. Free software contributors. Self-managed and egalitarian company.
+* https://twitter.com/coopTilleuls API, Web & Cloud Experts. [@ApiPlatform](https://twitter.com/ApiPlatform) creators. Free software contributors. Self-managed and egalitarian company. (Nantes)
+* https://twitter.com/troopersagency Troopers agence numérique agile et responsable structurée en SCOP. Design thinking, UX/UI, Développement Front (#React) & Back (#Symfony), Formations (OF), TMA. (Nantes)
 
