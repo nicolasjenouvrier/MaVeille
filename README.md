@@ -37,8 +37,6 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
     * Decorator : https://twitter.com/__mharrison__/status/1608493118634053633 
     * strings format : f-strings Are More Powerful Than You Might Think : https://dev.to/martinheinz/python-f-strings-are-more-powerful-than-you-might-think-2oop
     * https://koor.fr/Python/Index.wp
-    * https://t.co/rl3afA68sd
-    * https://www.practicepython.org/
     * Youtube
       * formation python (6h): https://www.youtube.com/watch?v=LamjAFnybo0&list=PLGNVbtO0YAeyOqdN7B85MR4DgAhOW7un_&index=1
       * Apprendre le python : https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR
@@ -53,6 +51,8 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 
 ## Android
 * Daily:
+  * Blog
+    * https://kotlin-java.fr/
   * Twitter  
     * https://twitter.com/androidweekly Get the best Android & Kotlin development news sent directly to your inbox since 2011! 
     * https://twitter.com/Croissants_Mail 
@@ -99,8 +99,6 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
   * Tutos
     * https://koor.fr/
     * Apprendre en s'amusant: https://linuxfr.org/news/apprendre-en-s-amusant
-  * https://exercism.org/
-  * https://codechalleng.es/
 * Automatisation de taches entre outils : (Par exemple GitHub, Jenkins, Slack) https://www.make.com/en/integrations/github/jenkins/slack
 * Traducteur Anglais-RegEx https://www.autoregex.xyz/
 * Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window: 
@@ -136,7 +134,6 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 
 #### Tools
 * LibreCAD is a free Open Source CAD : https://librecad.org/
-* https://toolfinder.xyz/
 
 ## CV
 * LA TECHNIQUE pour avoir le meilleur CV ! (Et le publier sur internet): https://www.youtube.com/watch?v=wSghMQBB-6c
