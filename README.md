@@ -41,7 +41,7 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
       * formation python (6h): https://www.youtube.com/watch?v=LamjAFnybo0&list=PLGNVbtO0YAeyOqdN7B85MR4DgAhOW7un_&index=1
       * Apprendre le python : https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR
       * Learn Python (either on its own or for AP CSP): https://www.youtube.com/playlist?list=PL9YOvPKwvPULm7tjWCfhpFHBxy22KpVXx
-
+    * écrire une extension Python interfacé avec le C : https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-132/python-et-le-c 
 
 ## Django
  * Daily
