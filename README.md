@@ -112,6 +112,10 @@ Faire sa veille en 2023 : https://www.youtube.com/watch?v=dO-NPzpQ11A
 * Learnings :
   * Un guide pour les développeur·euse·s, sur quoi faire quand les choses se passent mal, et en Français : https://github.com/k88hudson/git-flight-rules/blob/master/README_fr.md
 
+#### CI/CD
+* Github Actions
+  * À la découverte des GitHub Actions: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-115/a-la-decouverte-des-github-actions
+
 ## Embedded
 
 
